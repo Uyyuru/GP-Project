@@ -1,7 +1,9 @@
 const express = require('express')
 const app = express()
 const cors = require('cors')
-app.use(cors())
+app.use(cors({
+    origin: '*', // Allow all origins
+}))
 app.use(express.json())
 
 
