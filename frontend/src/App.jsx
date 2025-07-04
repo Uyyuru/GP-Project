@@ -24,7 +24,7 @@ const Logo = () => (
   </div>
 );
 
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://gp-project-zeta.vercel.app/";
 
 export default function App() {
   const [businessName, setBusinessName] = useState("");
