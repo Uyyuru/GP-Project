@@ -111,8 +111,6 @@ Ensure this README.md is present and up‑to‑date
 Email with subject:
 Submission: Full Stack Intern Assignment [Your Name]
 
-🌐 Live Demo
-Not deployed – replace this section with URLs if you publish later.
 
 📃 License
 Provided solely for educational and recruitment evaluation purposes.
