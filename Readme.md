@@ -106,10 +106,7 @@ Push all code (frontend & backend) to public GitHub
 
 Ensure this README.md is present and up‑to‑date
 
-(Optional) Deploy apps and add live links below
 
-Email with subject:
-Submission: Full Stack Intern Assignment [Your Name]
 
 
 📃 License
